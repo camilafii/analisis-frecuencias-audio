@@ -20,17 +20,11 @@ In particular, significant magnitudes were observed in the frequency ranges arou
 No common dominant frequency was consistently found across all samples, indicating that each audio has its own spectral characteristics.
 
 ## Example Result
-### Audio 1
-![Audio 1](med1_resultado.png)
-
-### Audio 2
-![Audio 2](med2_resultado.png)
-
-### Audio 3
-![Audio 3](med3_resultado.png)
+![Spectrum](resultado.png)
+![Spectrum](ivando2_resultado.png)
+![Spectrum](ivando3_resultado.png)
 
 ## Limitations
-
 - Small number of audio samples analyzed  
 - No noise filtering applied  
 - Results depend on audio quality

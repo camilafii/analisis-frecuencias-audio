@@ -21,7 +21,9 @@ No common dominant frequency was consistently found across all samples, indicati
 
 ## Example Result
 ![Spectrum](resultado.png)
+
 ![Spectrum](ivando2_resultado.png)
+
 ![Spectrum](ivando3_resultado.png)
 
 ## Limitations
